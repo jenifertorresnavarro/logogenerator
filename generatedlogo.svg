@@ -1,0 +1,11 @@
+<svg width="300" height="200" style="background-color:white;">
+    <triangle x="25" y="25" "fill="green" />
+    <triangle points="50,5 90,90 10,90" "fill="green" />
+    <triangle cx="150" cy="100" r="40"fill="green" />
+    <text x="63%" y="67%"  text-size="50px" fill="white" text-anchor="middle">JTN</text>
+    
+    
+    
+
+
+</svg>
